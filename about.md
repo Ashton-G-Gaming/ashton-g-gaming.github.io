@@ -3,4 +3,4 @@ layout: default
 permalink:/about
 ---
 # About Me
-I make videos about games and apple as that is what I am passionate about.
+I make videos about games and Apple as they are what I enjoy and passionate about.
