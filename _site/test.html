@@ -1,9 +1,10 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Ashton G Gaming</title>
+	<title>Test</title>
 	<link rel="preconnect" href="https://fonts.googleapis.com"> 
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
 <link href="https://fonts.googleapis.com/css2?family=Exo&display=swap" rel="stylesheet">
@@ -22,21 +23,23 @@
 			text-align: center;
 		}
 		header img {
-			height: 190px;
+			height: 200px;
 			margin: auto;
 		}
 		body {
 			text-align: center;
 		}
-		a.btn {
+		header a.btn {
 			color: white;
 			background-color: rgba(255, 225, 225, 0.6);
 			padding: 10px;
 			border-radius: 5px;
 			text-decoration: none;
+			min-width: 200px;
 		}
+
 		.yt {
-			background-color: rgba(255, 10, 10, 0.6);
+			background-color: rgba(255, 0, 0, 0.9);
 		}
 		.tv {
 			background-color: #6441a5;
@@ -63,15 +66,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', end
 <body>
 	<header>
 		<div class="creator">Website by:<br><a href="https://www.isaboo.co.uk">Isaac Boorman</a></div>
-		<a href="/"><img src="{{ site.baseurl }}/logo.jpeg" alt=""></a><br/><br/>
-		<a class="btn" style="background-color: rgba(255, 0, 0, 0.9);" href="https://www.youtube.com/channel/UCLL3cmfH9CWCi1IK0h-zIcA">Youtube channel</a>
-		<a class="btn" style="background-color: rgba(1, 0, 0, 0.9);" href="hhttps://www.tiktok.com/@ashtxn_g">Follow me on TikTok</a><br><br>
-		<a class="btn" style="background-color: #6441a5;" href="https://www.twitch.tv/ashtonggamingyt">Follow me on twitch!</a>
-		<a class="btn it" href="https://www.instagram.com/ashtxn_g/">Follow my Insta!</a>
+		<img src="https://www.isaboo.co.uk/assets/img/profile.png" alt=""><br/><br/>
+		<div class="socials">
+			<a class="btn" style="background-color: rgba(255, 0, 0, 0.9);" href="https://www.youtube.com/channel/UCLL3cmfH9CWCi1IK0h-zIcA">Youtube channel</a>
+		<a class="btn" style="background-color: #000;" href="https://www.twitch.tv/ashtonggamingyt">Github Profile</a>
+		</div>
 	</header>
 	<br>
-	{{content}}
+	<h1>Hi I'm Isaac!</h1>
+	I code stuff.<br><br>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/iDg78eoUeE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<hr/>
-	&copy; Ashton G Gaming 2021.
+	&copy; Isaac Boorman 2021.
 </body>
 </html>
