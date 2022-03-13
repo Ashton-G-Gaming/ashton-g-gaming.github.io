@@ -3,23 +3,89 @@ layout: default
 title: Apple Info
 permalink: /apple/
 ---
-# Apple Products
+<style>
+    hr {
+        max-width: 500px;
+    }
+</style>
+# My Apple Collection
+---
+## iPods
+---
+### iPod Mini 1st Gen.
+![](iPodMini1.JPG)
 
 ---
-# iPhone 13
-<img src="iPhone13.webp" width="200px"><br>
-The iPhone 13 was released on September 24 2021. It has the A15 chip.
-
-I currently do not have this product.
+### iPod Touch 2nd Gen.
 
 ---
-
-# iPhone 13 Pro
-<img src="iPhone13.webp" width="200px"><br>
-The iPhone 13 Pro...
+### iPod Touch 4th Gen.
 
 ---
+### iPod Nano 2nd Gen.
+![](iPodNano2.JPG)
 
-# iPhone 13 Mini
-<img src="iPhone13.webp" width="200px"><br>
-The iPhone 13 mini...
+---
+### iPod Nano 3rd Gen.
+![](iPodNano3.JPG)
+
+---
+### iPod Nano 6th Gen.
+
+---
+## iPads
+---
+### iPad Mini 1st Gen.
+![](iPadMini1.JPG)
+
+---
+### iPad Mini 5th Gen.
+![](iPadMini5.JPG)
+
+---
+### iPad Air 1st Gen.
+![](iPadMini1.JPG)
+
+---
+### iPad Mini 4th Gen.
+
+---
+### iPad Mini 5th Gen.
+![](iPadMini5.JPG)
+
+---
+## iPhones
+---
+### iPhone 3Gs
+
+---
+### iPhone 4
+
+---
+### iPhone 4s
+
+---
+### iPhone 5
+
+---
+### iPhone 5s
+![](iPhone5s.JPG)
+
+---
+### iPhone 5c
+
+---
+### iPhone 6
+
+---
+### iPhone 6s
+
+---
+### iPhone 6+
+
+---
+### iPhone 7
+
+---
+### iPhone Xr
+![](iPhoneXR.JPG)
