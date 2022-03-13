@@ -101,4 +101,4 @@ permalink: /apple/
 
 ---
 ### iPhone Xr
-![](iPhoneXR.JPG)
+![](iPhoneXR.jpg)
