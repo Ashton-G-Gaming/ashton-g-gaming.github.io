@@ -17,9 +17,15 @@ permalink: /apple/
 
 ---
 ### iPod Touch 2nd Gen.
+![](iPodTouch2.JPG)
 
 ---
 ### iPod Touch 4th Gen.
+![](iPodTouch4.jpeg)
+
+---
+### iPod Touch 5th Gen.
+![](iPodTouch5.jpeg)
 
 ---
 ### iPod Nano 2nd Gen.
@@ -31,6 +37,7 @@ permalink: /apple/
 
 ---
 ### iPod Nano 6th Gen.
+![](iPodNano6.jpeg)
 
 ---
 ## iPads
@@ -57,15 +64,19 @@ permalink: /apple/
 ## iPhones
 ---
 ### iPhone 3Gs
+![](iPhone3Gs.jpeg)
 
 ---
 ### iPhone 4
+![](iPhone4.jpeg)
 
 ---
 ### iPhone 4s
+![](iPhone4s.jpeg)
 
 ---
 ### iPhone 5
+![](iPhone5.jpeg)
 
 ---
 ### iPhone 5s
@@ -73,18 +84,23 @@ permalink: /apple/
 
 ---
 ### iPhone 5c
+![](iPhone5c.jpeg)
 
 ---
 ### iPhone 6
+![](iPhone6.jpeg)
 
 ---
 ### iPhone 6s
+![](iPhone6s.jpeg)
 
 ---
 ### iPhone 6+
+![](iPhone6plus.jpeg)
 
 ---
 ### iPhone 7
+![](iPhone7.jpeg)
 
 ---
 ### iPhone Xr
