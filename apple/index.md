@@ -55,10 +55,11 @@ permalink: /apple/
 
 ---
 ### iPad Mini 4th Gen.
+![](iPadMini4.jpeg)
 
 ---
 ### iPad Mini 5th Gen.
-![](iPadMini5.JPG)
+![](iPadMini5.jpg)
 
 ---
 ## iPhones
