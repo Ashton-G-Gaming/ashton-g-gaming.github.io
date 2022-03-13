@@ -42,15 +42,11 @@ permalink: /apple/
 ---
 ## iPads
 ---
-### iPad Mini 1st Gen.
+### iPad Air 1st Gen.
 ![](iPadMini1.JPG)
 
 ---
-### iPad Mini 5th Gen.
-![](iPadMini5.JPG)
-
----
-### iPad Air 1st Gen.
+### iPad Mini 1st Gen.
 ![](iPadMini1.JPG)
 
 ---
